@@ -11,7 +11,7 @@
 ### Front End Repository
 
 The front end repository for this project is available at: <br>
-https://github.com/eashworth/bestB4-Front-End/branches <br>
+https://github.com/eashworth/bestB4-Front-End <br>
 
 ### Project Description
 
@@ -23,7 +23,9 @@ As well as allowing users to list their own food to give away and find available
 
 1.3 billion tones of food gets lost or wasted every year we wanted to help reduce that.
 
-### Screenshots
+### Homepage
+
+![Alt text](/Images/Homepage.png?raw=true "Home Page")
 
 ### Tech Stack
 
